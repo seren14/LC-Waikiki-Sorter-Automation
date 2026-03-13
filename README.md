@@ -32,5 +32,4 @@ Bu sistem, LC Waikiki Yalova deposundaki sorter operasyonlarının raporlanması
 ## Geliştirici
 
 **Semih Eren Halgalı**
-- Endüstri Mühendisliği Öğrencisi
 - LC Waikiki Yalova Deposu - Sorter Departmanı
